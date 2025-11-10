@@ -1,0 +1,4 @@
+Product	Year1	Year2
+Microphone	300	250
+Speakers	150	200
+Mixing desk	700	600
